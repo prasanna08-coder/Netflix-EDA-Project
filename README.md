@@ -106,8 +106,7 @@ All visualizations include appropriate titles and labels for readability.
 
 **Prasanna V**
 
-B.Tech Electronics and Communication Engineering
-Puducherry Technological University
+
 
 ---
 
